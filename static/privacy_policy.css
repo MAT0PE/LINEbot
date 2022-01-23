@@ -1,0 +1,38 @@
+body {
+    background-color: #afeeee;
+}
+
+.wrapper {
+    margin: 25px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom:40px;
+    background-color: #ffffff;
+}
+
+.title {
+    font-size: xx-large;
+    text-align: center;
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.outer {
+    background-color: #afeeee;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+.heading {
+    font-size: x-large;
+    background-color: #ffffff;
+    padding-left: 10px;
+}
